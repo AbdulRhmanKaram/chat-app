@@ -15,7 +15,7 @@ Real-time chat application with separate client and server.
 ## Installation
 cd server
 npm install
-npm run dev
+php artisan serve
 
 cd client
 npm install
